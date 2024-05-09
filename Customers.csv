@@ -1,0 +1,2892 @@
+CustomerID,Country
+1,Italia
+2,Francia
+3,USA
+4,Francia
+5,Regno Unito
+6,Canada
+7,USA
+8,USA
+9,USA
+11,Italia
+12,Regno Unito
+13,Germania
+14,Italia
+15,Regno Unito
+16,Italia
+17,Regno Unito
+18,USA
+19,Italia
+20,Germania
+21,Canada
+22,Regno Unito
+23,Canada
+24,Regno Unito
+25,Germania
+26,Germania
+27,Germania
+28,Italia
+29,Canada
+30,Germania
+31,Germania
+32,Francia
+33,USA
+34,Germania
+35,Italia
+36,Regno Unito
+37,Italia
+38,Germania
+39,Regno Unito
+40,Francia
+42,Canada
+43,Canada
+44,USA
+45,Francia
+46,USA
+47,Francia
+48,Francia
+49,USA
+50,Francia
+51,Italia
+52,Germania
+54,Francia
+55,Regno Unito
+56,USA
+57,Canada
+58,Regno Unito
+59,Francia
+60,Canada
+61,Canada
+62,Canada
+63,Canada
+64,Germania
+65,Germania
+66,USA
+67,Francia
+68,Regno Unito
+69,Italia
+70,Regno Unito
+71,Canada
+72,Francia
+73,Regno Unito
+74,Italia
+75,USA
+76,USA
+77,Francia
+78,Canada
+80,Italia
+81,USA
+82,Canada
+83,Canada
+84,Francia
+85,USA
+86,Canada
+87,Italia
+88,Francia
+89,Regno Unito
+90,Regno Unito
+91,Italia
+92,Regno Unito
+93,Regno Unito
+94,USA
+95,Francia
+96,Germania
+97,Italia
+98,Regno Unito
+100,Canada
+101,Regno Unito
+102,Canada
+103,Francia
+104,Canada
+105,Canada
+106,Regno Unito
+107,Canada
+108,USA
+109,Francia
+110,Regno Unito
+111,Francia
+112,Italia
+113,Francia
+114,Germania
+115,Canada
+116,Germania
+117,Regno Unito
+118,Regno Unito
+119,Canada
+120,Canada
+121,Italia
+123,Canada
+124,Francia
+125,Germania
+126,Regno Unito
+127,Regno Unito
+128,Germania
+129,Germania
+130,Italia
+131,Italia
+132,Francia
+133,Francia
+134,Francia
+135,Canada
+136,Canada
+137,Germania
+138,Regno Unito
+139,USA
+140,Italia
+141,Germania
+142,Francia
+143,Germania
+144,Canada
+145,Germania
+146,USA
+147,Regno Unito
+148,Germania
+149,Francia
+150,Francia
+151,USA
+152,Germania
+153,Germania
+155,Francia
+156,Regno Unito
+157,USA
+158,Italia
+159,Germania
+160,Francia
+161,USA
+162,Francia
+163,Germania
+164,Italia
+165,Germania
+166,Germania
+167,USA
+168,USA
+169,Germania
+170,Italia
+171,Canada
+172,Regno Unito
+173,Francia
+174,Regno Unito
+175,Italia
+176,Regno Unito
+177,Canada
+178,Germania
+179,Regno Unito
+180,USA
+181,Germania
+182,Regno Unito
+183,USA
+184,Italia
+185,Germania
+186,Canada
+187,Regno Unito
+188,Regno Unito
+189,Regno Unito
+190,Francia
+191,Italia
+192,Regno Unito
+193,USA
+194,USA
+195,Francia
+196,Canada
+197,Regno Unito
+198,USA
+199,Canada
+200,Germania
+201,Canada
+202,Canada
+203,Italia
+204,USA
+205,Francia
+206,Canada
+207,Francia
+208,Francia
+209,Francia
+210,Germania
+211,Regno Unito
+212,USA
+213,Canada
+214,Italia
+215,Canada
+216,USA
+217,Francia
+218,Italia
+219,Italia
+220,Regno Unito
+221,Francia
+222,Francia
+223,Regno Unito
+224,Canada
+225,Canada
+226,USA
+227,Francia
+228,Germania
+229,USA
+230,Francia
+231,Germania
+232,Italia
+233,Francia
+234,Regno Unito
+235,Italia
+236,Canada
+237,Francia
+238,Regno Unito
+239,Canada
+240,Regno Unito
+241,Canada
+242,Regno Unito
+243,Italia
+245,USA
+246,USA
+247,USA
+248,Regno Unito
+249,Regno Unito
+250,Germania
+251,Canada
+252,Francia
+253,Francia
+254,Regno Unito
+255,Germania
+256,USA
+257,Germania
+258,Italia
+259,Germania
+260,Italia
+261,Germania
+262,USA
+263,Germania
+265,Italia
+266,USA
+267,Canada
+268,Regno Unito
+269,Francia
+270,USA
+272,Francia
+273,USA
+274,Italia
+275,Germania
+276,Francia
+277,USA
+278,USA
+279,Italia
+280,USA
+281,Canada
+282,Italia
+283,Canada
+284,Regno Unito
+285,USA
+286,Regno Unito
+287,Francia
+288,USA
+289,Regno Unito
+290,Italia
+291,Canada
+293,Canada
+294,USA
+295,Regno Unito
+296,Francia
+297,Francia
+298,Germania
+299,Germania
+300,Regno Unito
+301,Francia
+302,Italia
+303,Canada
+304,Italia
+305,Italia
+307,Canada
+308,Germania
+309,Regno Unito
+310,Germania
+311,Regno Unito
+312,Canada
+313,Francia
+314,Germania
+315,Germania
+316,Germania
+317,Francia
+318,Italia
+319,Canada
+320,USA
+321,Germania
+322,USA
+323,Regno Unito
+324,Italia
+325,Francia
+326,Francia
+327,USA
+328,Francia
+329,Regno Unito
+330,Regno Unito
+331,Germania
+332,USA
+333,Germania
+335,Canada
+336,Germania
+337,Canada
+338,USA
+339,Germania
+340,Regno Unito
+341,Italia
+342,Regno Unito
+343,USA
+344,Francia
+346,Regno Unito
+347,Germania
+348,Germania
+349,Regno Unito
+350,Canada
+351,USA
+352,Italia
+353,USA
+354,Francia
+355,Canada
+356,Italia
+357,Italia
+358,Regno Unito
+359,Regno Unito
+360,USA
+361,USA
+362,Italia
+363,Regno Unito
+364,Regno Unito
+365,Italia
+366,Regno Unito
+367,Italia
+368,Canada
+369,Francia
+370,Regno Unito
+371,Regno Unito
+372,USA
+373,Francia
+374,USA
+375,USA
+376,Italia
+377,Francia
+378,Italia
+379,Francia
+380,Canada
+381,Italia
+382,Francia
+383,Italia
+384,Germania
+385,Germania
+386,Germania
+387,Francia
+388,Germania
+389,Italia
+390,Canada
+391,Francia
+392,Italia
+393,Canada
+394,USA
+395,Francia
+396,Italia
+397,Italia
+398,Canada
+399,Regno Unito
+400,Canada
+401,Regno Unito
+402,Italia
+403,USA
+404,Italia
+405,USA
+406,Canada
+407,Canada
+408,Italia
+409,USA
+410,USA
+411,USA
+412,Regno Unito
+413,Italia
+414,USA
+415,Francia
+416,Francia
+417,Canada
+418,Italia
+419,Francia
+420,Germania
+421,Regno Unito
+422,Canada
+423,Regno Unito
+424,Italia
+425,Italia
+426,Regno Unito
+427,Germania
+428,Germania
+429,Italia
+430,Canada
+431,USA
+432,Germania
+433,USA
+434,Germania
+435,Germania
+436,Italia
+437,Canada
+438,Francia
+439,USA
+440,Regno Unito
+441,Germania
+443,Canada
+444,Canada
+445,USA
+446,Francia
+447,USA
+448,Regno Unito
+450,Canada
+451,USA
+452,Regno Unito
+453,Regno Unito
+454,Canada
+455,Regno Unito
+456,Italia
+457,USA
+458,USA
+459,Italia
+460,Canada
+461,Regno Unito
+462,Francia
+463,Francia
+464,USA
+465,Francia
+466,Italia
+467,Italia
+468,Germania
+469,USA
+470,USA
+471,Italia
+472,Canada
+473,USA
+474,Canada
+475,USA
+476,Canada
+477,Francia
+478,USA
+479,Italia
+480,USA
+481,Italia
+482,Italia
+483,Francia
+484,Italia
+485,Canada
+486,Francia
+487,USA
+488,Germania
+489,Germania
+490,Canada
+491,Francia
+492,USA
+493,USA
+494,Francia
+495,Francia
+496,Canada
+497,Germania
+498,USA
+499,USA
+500,Francia
+501,Regno Unito
+502,USA
+504,Francia
+505,Regno Unito
+506,Regno Unito
+507,Germania
+508,Canada
+509,Italia
+510,USA
+511,Francia
+512,USA
+513,Canada
+514,Germania
+515,Italia
+516,Regno Unito
+517,Canada
+518,Regno Unito
+519,USA
+520,Germania
+521,USA
+522,Regno Unito
+523,Francia
+524,Italia
+525,Canada
+527,Canada
+528,Italia
+529,USA
+530,USA
+531,Germania
+532,Francia
+533,Italia
+534,Germania
+535,Italia
+536,USA
+538,Italia
+539,USA
+540,Italia
+541,Canada
+542,Germania
+543,Regno Unito
+544,USA
+545,Regno Unito
+546,Francia
+547,Francia
+548,Francia
+549,Italia
+550,Canada
+551,Germania
+552,Regno Unito
+553,Italia
+554,Italia
+555,Canada
+556,Italia
+557,Francia
+558,Francia
+559,Regno Unito
+560,Italia
+561,USA
+562,Italia
+563,Canada
+564,Canada
+565,Francia
+566,USA
+567,Canada
+568,Canada
+569,Canada
+570,Germania
+571,Canada
+573,USA
+574,Italia
+575,USA
+576,Regno Unito
+577,Canada
+578,Germania
+579,Canada
+580,Francia
+581,Italia
+582,Regno Unito
+583,Germania
+584,Regno Unito
+585,Canada
+586,Canada
+587,Germania
+588,Canada
+589,Regno Unito
+590,Canada
+591,Germania
+592,Italia
+593,USA
+594,USA
+595,Italia
+596,Canada
+597,Italia
+599,USA
+600,USA
+601,Italia
+602,Italia
+603,Regno Unito
+604,Regno Unito
+605,Regno Unito
+606,Francia
+607,Regno Unito
+608,Germania
+609,Canada
+610,Canada
+611,Italia
+612,Regno Unito
+613,Germania
+614,Canada
+615,Germania
+616,USA
+617,Germania
+618,Canada
+619,Italia
+620,Regno Unito
+621,Canada
+622,Germania
+623,Germania
+624,Germania
+625,Canada
+626,USA
+627,Germania
+628,Canada
+629,Regno Unito
+631,Italia
+632,Francia
+633,Italia
+634,Italia
+635,Germania
+636,Regno Unito
+637,USA
+638,Germania
+639,Canada
+640,Francia
+641,Germania
+642,Francia
+644,Canada
+645,Regno Unito
+646,Canada
+647,Francia
+648,Regno Unito
+649,Francia
+650,Germania
+651,Canada
+652,Francia
+653,Germania
+654,Canada
+655,Regno Unito
+656,Canada
+657,Germania
+658,Francia
+659,Canada
+660,Francia
+661,USA
+662,Canada
+663,Italia
+664,USA
+665,Canada
+666,USA
+667,USA
+668,Regno Unito
+669,Canada
+670,USA
+671,Canada
+672,Canada
+673,USA
+674,Francia
+675,Francia
+676,USA
+677,Francia
+678,Germania
+679,Italia
+680,Italia
+681,Regno Unito
+682,Regno Unito
+683,Germania
+684,Francia
+685,Italia
+686,USA
+687,Germania
+688,USA
+689,Regno Unito
+690,Canada
+691,Germania
+692,Germania
+693,Canada
+694,Regno Unito
+696,Francia
+697,USA
+698,Italia
+699,Francia
+700,Francia
+701,Italia
+702,Canada
+703,Italia
+704,Canada
+705,Germania
+706,Canada
+707,Germania
+708,Regno Unito
+709,Regno Unito
+710,Germania
+711,Canada
+712,Germania
+713,USA
+714,Regno Unito
+715,Regno Unito
+716,USA
+718,Francia
+719,Germania
+720,Germania
+721,Germania
+722,Italia
+723,Francia
+724,USA
+725,Francia
+726,Italia
+727,Regno Unito
+728,Italia
+729,Germania
+730,Canada
+731,Italia
+732,Italia
+733,Francia
+734,Canada
+735,Regno Unito
+736,USA
+737,Canada
+738,Regno Unito
+739,Italia
+740,Francia
+741,Canada
+742,Francia
+743,Canada
+744,Germania
+745,Germania
+746,Francia
+747,Francia
+748,USA
+749,Regno Unito
+750,Germania
+751,USA
+752,Italia
+753,Germania
+754,Canada
+755,Regno Unito
+756,Germania
+757,Francia
+758,Regno Unito
+759,USA
+760,Germania
+761,Canada
+762,Germania
+763,Regno Unito
+764,Canada
+765,Francia
+767,Regno Unito
+768,Francia
+769,USA
+770,Francia
+771,Canada
+772,Italia
+773,Italia
+774,Canada
+775,Germania
+776,Canada
+777,Regno Unito
+779,Regno Unito
+780,Regno Unito
+781,Francia
+782,USA
+783,Germania
+784,Francia
+785,Canada
+786,Germania
+787,Regno Unito
+788,Canada
+789,Canada
+790,Regno Unito
+791,Regno Unito
+792,Canada
+794,Regno Unito
+795,Francia
+796,Canada
+797,Canada
+798,Francia
+799,Regno Unito
+800,Germania
+801,Canada
+802,Canada
+803,Germania
+804,Canada
+805,Italia
+806,Germania
+807,Regno Unito
+808,Regno Unito
+809,Germania
+810,Canada
+811,USA
+812,Canada
+813,Italia
+814,Regno Unito
+815,Germania
+816,Italia
+817,Canada
+818,Canada
+819,Italia
+820,Italia
+821,Francia
+822,Francia
+823,Francia
+824,USA
+825,Francia
+826,USA
+827,Germania
+828,Canada
+829,Germania
+830,Francia
+831,USA
+833,Germania
+834,Italia
+835,Canada
+836,Francia
+837,Francia
+838,Italia
+839,Germania
+840,Italia
+841,Regno Unito
+842,Germania
+843,USA
+844,Canada
+845,Germania
+847,Francia
+848,Germania
+849,Italia
+850,Francia
+851,Canada
+852,Francia
+853,Italia
+854,Canada
+855,Italia
+856,Italia
+857,Germania
+858,Germania
+859,Francia
+860,Regno Unito
+861,Regno Unito
+862,Italia
+863,Regno Unito
+864,Italia
+865,Germania
+866,Italia
+867,Canada
+868,Francia
+869,Canada
+870,Regno Unito
+871,Regno Unito
+872,Regno Unito
+873,Italia
+874,Italia
+875,Regno Unito
+876,Regno Unito
+877,Francia
+879,USA
+880,USA
+881,USA
+882,Regno Unito
+883,Canada
+884,USA
+885,Italia
+886,USA
+887,Regno Unito
+889,Italia
+890,Germania
+891,Regno Unito
+892,Italia
+893,Germania
+894,USA
+895,USA
+896,USA
+897,Regno Unito
+898,Canada
+899,Canada
+900,USA
+901,Regno Unito
+902,Francia
+903,Regno Unito
+904,Regno Unito
+905,Italia
+906,Canada
+907,Regno Unito
+908,Francia
+909,Germania
+910,USA
+911,Regno Unito
+912,Francia
+913,Canada
+914,USA
+915,Italia
+916,Italia
+917,Canada
+918,Germania
+919,Francia
+920,USA
+921,Canada
+922,Italia
+923,Regno Unito
+924,Regno Unito
+925,USA
+926,Francia
+927,Germania
+928,Canada
+929,USA
+931,Italia
+932,Italia
+933,Italia
+934,Germania
+935,USA
+936,Regno Unito
+937,Regno Unito
+938,USA
+939,Canada
+940,Regno Unito
+941,Francia
+942,USA
+943,Regno Unito
+944,Germania
+945,Germania
+946,Regno Unito
+947,Germania
+948,Germania
+949,USA
+950,Regno Unito
+951,Francia
+952,Canada
+953,Canada
+954,USA
+955,Germania
+956,USA
+957,Germania
+958,USA
+959,Francia
+960,USA
+961,Regno Unito
+963,Francia
+965,Canada
+966,Germania
+968,Germania
+969,Italia
+970,Regno Unito
+971,Regno Unito
+972,Regno Unito
+973,Italia
+974,Italia
+975,Italia
+976,Canada
+977,Canada
+978,Germania
+979,Francia
+980,Canada
+981,Francia
+982,USA
+983,Francia
+984,Italia
+985,Germania
+986,Italia
+987,USA
+988,Italia
+989,Germania
+990,Germania
+991,Germania
+992,Germania
+993,USA
+994,Regno Unito
+995,Francia
+996,USA
+997,Italia
+998,USA
+999,Regno Unito
+1000,USA
+1001,Regno Unito
+1002,Regno Unito
+1003,USA
+1004,Francia
+1005,Canada
+1006,Francia
+1007,Francia
+1008,Regno Unito
+1009,USA
+1010,Regno Unito
+1011,Germania
+1012,Francia
+1013,Canada
+1014,USA
+1015,Germania
+1016,Regno Unito
+1017,USA
+1018,USA
+1019,Regno Unito
+1020,Italia
+1021,Regno Unito
+1022,Germania
+1023,Italia
+1024,Italia
+1025,USA
+1026,Regno Unito
+1027,USA
+1028,Regno Unito
+1029,Italia
+1030,Regno Unito
+1031,USA
+1032,Regno Unito
+1033,Regno Unito
+1034,Canada
+1035,Canada
+1036,Regno Unito
+1037,Italia
+1038,Germania
+1039,Canada
+1040,Regno Unito
+1041,Regno Unito
+1042,Regno Unito
+1043,USA
+1044,Francia
+1045,Germania
+1046,Canada
+1047,Francia
+1048,Francia
+1049,USA
+1050,Regno Unito
+1051,Francia
+1052,Regno Unito
+1053,Canada
+1054,Germania
+1055,Germania
+1056,USA
+1057,USA
+1058,Francia
+1059,Francia
+1061,Francia
+1062,Canada
+1063,Regno Unito
+1064,Regno Unito
+1065,Regno Unito
+1066,Regno Unito
+1067,Francia
+1068,Germania
+1069,Francia
+1070,Francia
+1071,Canada
+1072,USA
+1073,Italia
+1074,Francia
+1076,USA
+1077,Italia
+1079,Italia
+1080,Regno Unito
+1081,Regno Unito
+1082,Canada
+1083,Canada
+1084,USA
+1085,Italia
+1086,Canada
+1087,Germania
+1088,Francia
+1089,Canada
+1090,Germania
+1091,USA
+1092,Regno Unito
+1093,Regno Unito
+1094,Regno Unito
+1095,Germania
+1096,Germania
+1097,Italia
+1098,Canada
+1099,USA
+1100,Francia
+1101,Germania
+1102,Regno Unito
+1103,Germania
+1104,Germania
+1105,USA
+1106,Italia
+1107,Italia
+1108,Italia
+1109,Regno Unito
+1110,Germania
+1111,USA
+1112,Francia
+1113,Germania
+1114,Canada
+1115,Canada
+1116,Regno Unito
+1117,USA
+1118,Canada
+1119,Regno Unito
+1120,Germania
+1121,USA
+1122,Regno Unito
+1123,Regno Unito
+1124,Regno Unito
+1125,Francia
+1126,USA
+1127,Regno Unito
+1128,USA
+1129,Germania
+1130,Italia
+1131,Canada
+1132,Canada
+1133,Italia
+1134,Germania
+1135,Canada
+1136,Germania
+1137,Italia
+1138,Italia
+1139,Germania
+1140,Canada
+1141,Italia
+1142,Canada
+1143,USA
+1144,USA
+1145,Canada
+1146,Francia
+1147,Canada
+1148,Italia
+1149,Germania
+1150,Francia
+1151,Italia
+1152,Regno Unito
+1153,Francia
+1154,Francia
+1155,Canada
+1156,Germania
+1157,Regno Unito
+1158,USA
+1159,Francia
+1160,USA
+1161,Germania
+1162,Italia
+1164,Canada
+1165,Italia
+1166,Germania
+1167,Regno Unito
+1168,Canada
+1169,Canada
+1170,Germania
+1171,Italia
+1172,Regno Unito
+1173,Regno Unito
+1174,Canada
+1175,Germania
+1176,Francia
+1178,USA
+1179,Regno Unito
+1180,Regno Unito
+1181,Germania
+1182,Germania
+1183,USA
+1184,Germania
+1185,Regno Unito
+1186,Italia
+1187,Germania
+1188,Francia
+1189,USA
+1190,USA
+1191,USA
+1192,Canada
+1193,USA
+1194,Italia
+1195,Germania
+1196,Germania
+1197,Francia
+1198,Regno Unito
+1199,USA
+1200,Italia
+1201,Regno Unito
+1202,USA
+1203,Canada
+1204,Canada
+1205,Francia
+1206,Francia
+1207,Italia
+1208,Francia
+1209,USA
+1210,Francia
+1211,Francia
+1212,Germania
+1213,Canada
+1214,USA
+1215,Francia
+1216,Italia
+1218,USA
+1219,Regno Unito
+1220,Germania
+1221,Canada
+1222,Italia
+1223,Regno Unito
+1224,Regno Unito
+1225,Regno Unito
+1226,Francia
+1227,Italia
+1228,USA
+1229,USA
+1230,Germania
+1231,Germania
+1232,USA
+1235,Italia
+1236,Canada
+1237,Germania
+1238,Francia
+1239,Regno Unito
+1240,Germania
+1241,Germania
+1242,Italia
+1243,USA
+1244,Italia
+1245,Canada
+1246,Italia
+1247,Germania
+1248,Canada
+1249,Regno Unito
+1250,Italia
+1251,Germania
+1252,USA
+1253,Regno Unito
+1254,Canada
+1255,Italia
+1256,Francia
+1257,Canada
+1258,Francia
+1259,Germania
+1260,Germania
+1261,Regno Unito
+1262,Italia
+1263,USA
+1264,Germania
+1265,Canada
+1266,Canada
+1267,Regno Unito
+1268,Germania
+1269,Canada
+1270,Italia
+1271,Germania
+1272,Italia
+1273,Canada
+1274,USA
+1275,Italia
+1276,Italia
+1277,Italia
+1278,Francia
+1279,Regno Unito
+1280,Germania
+1281,USA
+1282,Canada
+1283,Italia
+1284,Francia
+1285,Regno Unito
+1286,Regno Unito
+1287,Canada
+1288,Regno Unito
+1289,Italia
+1290,Germania
+1291,Regno Unito
+1292,USA
+1293,Canada
+1294,Germania
+1295,USA
+1296,Italia
+1297,Germania
+1298,Germania
+1299,Germania
+1300,USA
+1301,Regno Unito
+1302,Germania
+1303,USA
+1304,USA
+1305,USA
+1306,USA
+1307,Italia
+1308,Canada
+1309,Regno Unito
+1310,Canada
+1311,Canada
+1312,Francia
+1313,Germania
+1314,Germania
+1315,Canada
+1316,USA
+1317,Francia
+1318,Francia
+1319,Italia
+1320,Germania
+1321,Francia
+1322,Francia
+1323,Germania
+1324,USA
+1325,Italia
+1326,Italia
+1327,Germania
+1328,Regno Unito
+1329,USA
+1330,USA
+1331,Francia
+1332,Regno Unito
+1333,Canada
+1334,Francia
+1335,Italia
+1336,Regno Unito
+1337,Italia
+1338,USA
+1339,Francia
+1340,Italia
+1341,Regno Unito
+1342,Regno Unito
+1343,Italia
+1344,Italia
+1345,Italia
+1346,Regno Unito
+1347,Italia
+1348,USA
+1349,Francia
+1350,Canada
+1351,Francia
+1353,Canada
+1354,Regno Unito
+1355,USA
+1356,Italia
+1357,Regno Unito
+1358,Regno Unito
+1359,Regno Unito
+1360,Canada
+1361,Francia
+1362,Italia
+1363,USA
+1364,USA
+1365,Regno Unito
+1366,Francia
+1367,Canada
+1369,Canada
+1370,Canada
+1371,Germania
+1372,Italia
+1373,Francia
+1374,Regno Unito
+1375,USA
+1376,Canada
+1377,USA
+1379,Germania
+1380,Francia
+1381,USA
+1382,Germania
+1383,USA
+1384,USA
+1385,Germania
+1386,Canada
+1387,Italia
+1388,USA
+1389,Francia
+1390,Germania
+1391,Regno Unito
+1392,USA
+1393,USA
+1394,Canada
+1395,USA
+1396,Germania
+1397,Italia
+1398,USA
+1399,Germania
+1400,USA
+1401,Regno Unito
+1403,Italia
+1404,Italia
+1405,Italia
+1406,Canada
+1407,Francia
+1408,Canada
+1409,Italia
+1410,Francia
+1411,Italia
+1412,Regno Unito
+1413,Germania
+1414,Italia
+1415,USA
+1416,Regno Unito
+1417,Francia
+1418,Regno Unito
+1421,Germania
+1422,Regno Unito
+1423,Francia
+1424,USA
+1425,Italia
+1426,Regno Unito
+1427,Regno Unito
+1428,Italia
+1429,Italia
+1430,USA
+1431,Germania
+1432,Italia
+1433,USA
+1434,USA
+1435,Francia
+1436,Italia
+1437,USA
+1438,Francia
+1439,Italia
+1440,Italia
+1441,USA
+1442,Italia
+1443,Francia
+1444,USA
+1445,Germania
+1446,USA
+1447,Francia
+1448,Italia
+1449,Italia
+1450,USA
+1451,Germania
+1452,Francia
+1453,Francia
+1454,Germania
+1455,Francia
+1456,Italia
+1457,Italia
+1458,Italia
+1459,Francia
+1460,Italia
+1461,Germania
+1462,Italia
+1463,Regno Unito
+1464,Francia
+1465,Francia
+1466,Germania
+1467,Italia
+1468,Regno Unito
+1469,Francia
+1470,Italia
+1471,Germania
+1472,Francia
+1473,Germania
+1474,Francia
+1475,USA
+1476,USA
+1477,Francia
+1478,Francia
+1479,USA
+1481,Germania
+1482,Germania
+1483,Canada
+1484,Canada
+1485,Francia
+1486,Canada
+1487,Regno Unito
+1488,Germania
+1489,Regno Unito
+1490,Regno Unito
+1491,Francia
+1492,USA
+1493,Regno Unito
+1494,Canada
+1495,Regno Unito
+1497,Germania
+1498,Canada
+1499,USA
+1500,Germania
+1501,Germania
+1502,Francia
+1503,Francia
+1504,Germania
+1505,Francia
+1506,USA
+1507,Canada
+1508,Francia
+1509,Regno Unito
+1510,Italia
+1511,Italia
+1512,Germania
+1513,Canada
+1514,Francia
+1515,Germania
+1517,Francia
+1518,USA
+1519,Francia
+1520,Canada
+1521,Italia
+1522,Italia
+1523,Germania
+1524,Italia
+1525,Germania
+1526,Francia
+1527,USA
+1528,Canada
+1529,Regno Unito
+1530,Canada
+1531,USA
+1532,USA
+1533,Canada
+1534,Italia
+1535,USA
+1536,Italia
+1537,Canada
+1538,Italia
+1539,USA
+1540,USA
+1542,Germania
+1543,Regno Unito
+1544,Germania
+1545,Francia
+1546,Italia
+1547,Regno Unito
+1548,Italia
+1549,Regno Unito
+1550,Francia
+1551,Germania
+1552,Francia
+1553,USA
+1554,USA
+1555,Francia
+1556,Francia
+1557,Francia
+1558,Italia
+1559,Italia
+1560,USA
+1561,USA
+1562,Regno Unito
+1563,Canada
+1564,Francia
+1565,Italia
+1566,Francia
+1567,Germania
+1568,USA
+1569,Regno Unito
+1570,Germania
+1571,USA
+1572,Canada
+1573,Canada
+1574,Regno Unito
+1575,Francia
+1576,Regno Unito
+1577,Italia
+1578,Francia
+1579,Germania
+1580,Regno Unito
+1581,Regno Unito
+1582,Germania
+1583,Germania
+1584,Canada
+1586,Canada
+1587,Italia
+1588,Regno Unito
+1589,Francia
+1590,Canada
+1591,Regno Unito
+1592,Regno Unito
+1593,Regno Unito
+1594,Canada
+1595,Italia
+1596,Germania
+1598,USA
+1599,Regno Unito
+1600,Regno Unito
+1601,USA
+1602,Francia
+1603,Francia
+1604,Francia
+1605,Regno Unito
+1606,Regno Unito
+1607,Italia
+1608,Italia
+1609,Francia
+1610,Canada
+1611,Italia
+1612,Canada
+1613,Canada
+1614,Francia
+1615,Francia
+1616,Francia
+1617,Canada
+1618,Francia
+1619,USA
+1620,Francia
+1621,Germania
+1622,Germania
+1623,Francia
+1624,Francia
+1625,Italia
+1626,USA
+1627,Canada
+1628,Germania
+1629,USA
+1630,Italia
+1631,Germania
+1632,Francia
+1633,USA
+1634,Italia
+1635,Germania
+1636,Regno Unito
+1637,Canada
+1638,Germania
+1639,Regno Unito
+1640,Germania
+1641,Regno Unito
+1642,Italia
+1643,Regno Unito
+1644,Germania
+1645,USA
+1646,Germania
+1647,USA
+1648,Canada
+1649,Italia
+1650,Germania
+1651,Germania
+1652,Francia
+1653,Italia
+1654,USA
+1655,USA
+1656,Francia
+1657,Francia
+1658,Francia
+1659,Francia
+1660,Francia
+1661,Germania
+1662,Regno Unito
+1663,Regno Unito
+1664,Francia
+1665,USA
+1666,Francia
+1667,Italia
+1668,Francia
+1669,Francia
+1670,USA
+1671,Francia
+1672,Germania
+1673,USA
+1674,Italia
+1675,Francia
+1676,USA
+1677,Italia
+1678,Germania
+1679,Germania
+1680,Italia
+1681,USA
+1682,Germania
+1683,Germania
+1685,Francia
+1686,Germania
+1687,Francia
+1689,Germania
+1690,Italia
+1691,Regno Unito
+1692,USA
+1693,Canada
+1694,Francia
+1695,USA
+1696,USA
+1697,Germania
+1698,Canada
+1699,Francia
+1700,Canada
+1701,Francia
+1702,Germania
+1703,USA
+1705,Regno Unito
+1706,Germania
+1707,Francia
+1708,Regno Unito
+1709,Italia
+1710,Regno Unito
+1711,Germania
+1712,Canada
+1713,Regno Unito
+1714,Germania
+1715,Francia
+1716,Regno Unito
+1718,USA
+1719,Germania
+1720,Regno Unito
+1721,USA
+1723,Italia
+1724,Francia
+1725,Canada
+1726,Italia
+1727,Italia
+1728,Regno Unito
+1729,Italia
+1730,USA
+1731,Italia
+1732,Germania
+1733,Canada
+1734,Regno Unito
+1735,Canada
+1736,Germania
+1737,Canada
+1738,Canada
+1739,Italia
+1740,Regno Unito
+1741,Regno Unito
+1742,Francia
+1743,Francia
+1744,Francia
+1745,Italia
+1746,Canada
+1747,Francia
+1748,Germania
+1749,USA
+1750,Italia
+1751,Germania
+1752,Regno Unito
+1753,USA
+1754,Italia
+1755,Francia
+1756,Regno Unito
+1757,Francia
+1758,USA
+1759,Regno Unito
+1760,Germania
+1761,Francia
+1762,USA
+1763,Germania
+1765,Canada
+1766,Regno Unito
+1767,Italia
+1768,USA
+1769,Regno Unito
+1770,Italia
+1771,Francia
+1772,Regno Unito
+1773,USA
+1774,Germania
+1775,Germania
+1776,Italia
+1777,Italia
+1778,Germania
+1779,Germania
+1780,Italia
+1781,Canada
+1782,Canada
+1784,Canada
+1785,USA
+1786,Francia
+1787,Canada
+1788,Germania
+1789,Germania
+1790,Francia
+1791,Germania
+1792,Canada
+1793,USA
+1794,Canada
+1795,Germania
+1796,Canada
+1797,Italia
+1798,Canada
+1799,Canada
+1800,Francia
+1801,Germania
+1802,USA
+1803,Francia
+1804,Germania
+1805,Francia
+1806,Regno Unito
+1807,USA
+1808,Germania
+1809,Francia
+1810,USA
+1811,USA
+1812,Italia
+1813,Regno Unito
+1814,Italia
+1815,Regno Unito
+1816,Francia
+1817,Regno Unito
+1818,Italia
+1819,Italia
+1820,Italia
+1821,Canada
+1822,USA
+1823,Canada
+1824,Regno Unito
+1825,Germania
+1826,USA
+1827,Regno Unito
+1828,Regno Unito
+1829,Regno Unito
+1830,Germania
+1831,Francia
+1832,Francia
+1833,USA
+1834,Canada
+1835,Italia
+1837,Canada
+1838,Italia
+1839,Regno Unito
+1840,Italia
+1841,USA
+1842,Italia
+1843,Italia
+1844,Germania
+1845,Regno Unito
+1846,Francia
+1847,Francia
+1848,Francia
+1849,Regno Unito
+1850,Francia
+1851,Canada
+1852,Francia
+1853,Canada
+1854,Italia
+1855,Francia
+1856,Italia
+1857,Regno Unito
+1858,Canada
+1859,USA
+1860,Germania
+1861,USA
+1862,Regno Unito
+1863,Canada
+1864,Canada
+1865,Francia
+1866,Italia
+1867,Germania
+1868,Italia
+1869,Francia
+1870,USA
+1871,Italia
+1872,Canada
+1873,Germania
+1874,USA
+1876,USA
+1877,Regno Unito
+1878,Regno Unito
+1879,Germania
+1880,Germania
+1881,Italia
+1882,Italia
+1883,Canada
+1884,Francia
+1885,Italia
+1886,USA
+1887,Canada
+1888,Germania
+1889,Italia
+1890,Germania
+1891,Germania
+1892,Francia
+1893,Regno Unito
+1894,USA
+1895,Francia
+1896,Francia
+1897,USA
+1898,Canada
+1899,Francia
+1900,Francia
+1901,Germania
+1902,Germania
+1903,Regno Unito
+1904,USA
+1905,Germania
+1906,Italia
+1907,Francia
+1908,Francia
+1909,Italia
+1910,Italia
+1911,USA
+1912,Canada
+1914,USA
+1915,Canada
+1916,Germania
+1917,Italia
+1918,Germania
+1919,Italia
+1920,USA
+1921,Regno Unito
+1922,Italia
+1923,Germania
+1924,USA
+1925,Canada
+1926,Germania
+1927,Germania
+1928,Germania
+1929,Italia
+1930,Italia
+1931,Italia
+1932,Regno Unito
+1933,Italia
+1934,Francia
+1935,USA
+1936,Canada
+1937,USA
+1938,Italia
+1939,Canada
+1940,Francia
+1941,USA
+1942,Regno Unito
+1943,Francia
+1944,Germania
+1945,Canada
+1946,Canada
+1947,Regno Unito
+1948,USA
+1949,Francia
+1950,Regno Unito
+1951,Italia
+1952,Regno Unito
+1953,Canada
+1954,Germania
+1955,Regno Unito
+1956,Canada
+1957,Canada
+1958,Regno Unito
+1959,Italia
+1960,Canada
+1961,Regno Unito
+1962,USA
+1963,USA
+1964,USA
+1965,Regno Unito
+1966,Francia
+1967,Italia
+1968,Francia
+1969,USA
+1970,Canada
+1971,Italia
+1972,USA
+1973,Canada
+1974,Germania
+1975,Regno Unito
+1976,Canada
+1977,Italia
+1978,Italia
+1979,Francia
+1980,USA
+1981,USA
+1982,Canada
+1983,Canada
+1984,Germania
+1985,Francia
+1986,Francia
+1987,USA
+1988,Regno Unito
+1989,Canada
+1990,Canada
+1991,USA
+1992,Italia
+1993,Regno Unito
+1994,Regno Unito
+1995,USA
+1996,Francia
+1997,Italia
+1998,Regno Unito
+1999,Francia
+2000,USA
+2001,Germania
+2002,Regno Unito
+2003,Canada
+2004,Germania
+2005,Germania
+2006,Regno Unito
+2007,Francia
+2008,Italia
+2009,Germania
+2010,USA
+2011,Francia
+2012,Italia
+2013,Canada
+2014,Francia
+2015,Germania
+2016,Germania
+2017,Francia
+2018,Canada
+2019,Italia
+2020,Italia
+2021,Regno Unito
+2022,Germania
+2023,USA
+2024,Francia
+2025,Italia
+2026,USA
+2027,Canada
+2028,Germania
+2029,Regno Unito
+2030,Canada
+2031,Regno Unito
+2032,Italia
+2033,Canada
+2034,Italia
+2035,Canada
+2036,Italia
+2037,Germania
+2038,Germania
+2039,Regno Unito
+2040,Francia
+2041,USA
+2042,Germania
+2043,Regno Unito
+2044,Regno Unito
+2045,Regno Unito
+2046,Italia
+2047,Canada
+2048,Regno Unito
+2049,Canada
+2050,Italia
+2051,Francia
+2052,Francia
+2053,Italia
+2054,Francia
+2055,USA
+2056,Francia
+2057,Canada
+2059,Italia
+2060,USA
+2061,Regno Unito
+2062,Germania
+2063,USA
+2064,USA
+2065,Regno Unito
+2066,Italia
+2067,USA
+2069,Canada
+2070,Germania
+2071,Francia
+2072,Regno Unito
+2073,Italia
+2074,USA
+2075,Francia
+2076,Francia
+2077,Germania
+2078,Francia
+2079,Germania
+2080,Canada
+2081,Francia
+2082,Francia
+2083,Canada
+2084,Italia
+2086,USA
+2087,Francia
+2088,Regno Unito
+2089,Italia
+2090,Regno Unito
+2091,Francia
+2092,Italia
+2093,USA
+2094,USA
+2095,Italia
+2096,Germania
+2097,Italia
+2098,USA
+2099,Italia
+2100,USA
+2101,Francia
+2102,Francia
+2103,Italia
+2104,Canada
+2105,Canada
+2106,USA
+2107,Regno Unito
+2108,Regno Unito
+2109,Germania
+2110,USA
+2111,Canada
+2113,USA
+2114,Francia
+2115,Francia
+2116,Regno Unito
+2117,Canada
+2118,Germania
+2119,Francia
+2120,Regno Unito
+2121,USA
+2122,Germania
+2123,Regno Unito
+2124,Germania
+2125,Italia
+2126,Germania
+2127,Italia
+2128,Canada
+2129,Germania
+2130,Germania
+2131,Canada
+2132,USA
+2133,Regno Unito
+2134,USA
+2135,Francia
+2136,Canada
+2137,Regno Unito
+2138,USA
+2139,Canada
+2140,USA
+2141,Francia
+2142,Canada
+2143,Canada
+2144,Canada
+2145,Francia
+2146,Francia
+2147,USA
+2148,Italia
+2149,USA
+2150,Canada
+2151,Italia
+2152,Regno Unito
+2153,Regno Unito
+2154,Francia
+2155,Francia
+2157,Francia
+2158,Francia
+2159,Germania
+2160,Canada
+2161,Germania
+2162,Germania
+2163,USA
+2164,Italia
+2165,Regno Unito
+2166,USA
+2168,Italia
+2169,USA
+2170,Francia
+2171,Francia
+2172,Italia
+2173,Germania
+2174,Italia
+2175,Germania
+2176,Canada
+2177,Francia
+2178,Regno Unito
+2179,USA
+2180,Francia
+2181,Canada
+2183,Canada
+2184,Regno Unito
+2185,Regno Unito
+2186,Germania
+2187,Francia
+2188,Canada
+2189,Francia
+2190,Regno Unito
+2191,Canada
+2192,Francia
+2193,USA
+2194,Francia
+2196,Francia
+2197,Regno Unito
+2199,Regno Unito
+2200,Canada
+2201,USA
+2202,Regno Unito
+2203,Italia
+2204,Canada
+2205,Italia
+2206,USA
+2207,Italia
+2208,Regno Unito
+2209,Canada
+2210,Regno Unito
+2211,Francia
+2212,Canada
+2213,Germania
+2215,Regno Unito
+2216,USA
+2217,USA
+2218,Francia
+2219,Italia
+2220,Regno Unito
+2221,Canada
+2222,Regno Unito
+2223,Italia
+2224,USA
+2225,Italia
+2226,Germania
+2227,Francia
+2228,Italia
+2229,Germania
+2230,Canada
+2231,Canada
+2232,USA
+2233,Italia
+2234,Canada
+2235,Italia
+2236,Canada
+2237,Germania
+2239,USA
+2240,Francia
+2242,Canada
+2243,Regno Unito
+2244,Italia
+2245,Italia
+2246,Germania
+2247,Francia
+2248,Italia
+2249,Francia
+2250,Canada
+2251,Germania
+2253,Francia
+2254,Canada
+2255,Regno Unito
+2256,Italia
+2257,USA
+2258,Canada
+2259,Italia
+2260,Canada
+2261,Germania
+2262,Germania
+2263,USA
+2264,Canada
+2265,Germania
+2266,Francia
+2267,Regno Unito
+2269,Italia
+2270,Francia
+2271,Canada
+2272,Germania
+2273,USA
+2274,Francia
+2275,Francia
+2276,USA
+2277,Francia
+2278,Regno Unito
+2279,Canada
+2280,Germania
+2281,Italia
+2282,Regno Unito
+2283,Germania
+2284,Italia
+2285,Regno Unito
+2286,USA
+2287,Regno Unito
+2288,USA
+2289,Germania
+2290,Germania
+2291,USA
+2292,Canada
+2293,Germania
+2294,Francia
+2296,Italia
+2297,Regno Unito
+2298,Germania
+2299,USA
+2300,Italia
+2301,USA
+2302,Francia
+2303,Italia
+2304,Regno Unito
+2305,Italia
+2306,USA
+2307,USA
+2308,Francia
+2309,Germania
+2310,Regno Unito
+2311,Italia
+2312,Regno Unito
+2313,Regno Unito
+2315,Francia
+2316,USA
+2317,USA
+2318,Italia
+2319,Germania
+2320,Francia
+2321,Canada
+2322,Regno Unito
+2323,Regno Unito
+2324,Canada
+2325,Francia
+2326,Germania
+2327,Italia
+2328,Italia
+2329,Francia
+2330,Germania
+2331,Germania
+2332,Regno Unito
+2333,Francia
+2334,USA
+2335,Francia
+2336,Italia
+2337,USA
+2338,Francia
+2339,Canada
+2340,Francia
+2341,Italia
+2342,Regno Unito
+2343,Francia
+2344,Germania
+2345,Regno Unito
+2346,Germania
+2347,Canada
+2348,Regno Unito
+2349,Germania
+2350,Francia
+2351,Francia
+2352,Canada
+2353,Francia
+2355,USA
+2356,Germania
+2357,Germania
+2358,USA
+2359,Germania
+2360,USA
+2361,USA
+2362,Regno Unito
+2363,Regno Unito
+2364,USA
+2365,Canada
+2366,Francia
+2367,Regno Unito
+2368,Francia
+2369,Regno Unito
+2370,Regno Unito
+2371,Francia
+2372,USA
+2373,Italia
+2374,Italia
+2376,Canada
+2377,USA
+2378,Francia
+2379,USA
+2380,Italia
+2381,Regno Unito
+2382,Germania
+2383,Regno Unito
+2384,Regno Unito
+2385,Regno Unito
+2386,USA
+2387,Regno Unito
+2388,Italia
+2389,USA
+2390,Francia
+2391,Germania
+2392,USA
+2393,USA
+2394,Francia
+2395,Germania
+2396,Regno Unito
+2397,USA
+2398,Francia
+2399,USA
+2400,Germania
+2401,Canada
+2402,Regno Unito
+2403,Francia
+2404,USA
+2405,USA
+2406,Germania
+2407,Germania
+2408,Italia
+2409,Canada
+2410,Germania
+2411,Francia
+2412,Germania
+2413,Regno Unito
+2415,Italia
+2416,Canada
+2417,USA
+2418,Francia
+2419,Italia
+2420,Italia
+2421,Germania
+2422,USA
+2423,Italia
+2424,USA
+2425,Francia
+2426,Canada
+2427,Canada
+2429,Regno Unito
+2430,Francia
+2431,Germania
+2432,Canada
+2433,Regno Unito
+2434,Regno Unito
+2435,Francia
+2436,USA
+2437,Francia
+2438,Canada
+2439,Francia
+2440,USA
+2441,USA
+2442,Germania
+2443,Regno Unito
+2444,Canada
+2445,Germania
+2446,Canada
+2447,Francia
+2449,Italia
+2450,Regno Unito
+2451,Canada
+2452,Italia
+2453,Germania
+2454,USA
+2455,Germania
+2456,Canada
+2457,Italia
+2458,Italia
+2459,Italia
+2460,Francia
+2461,Italia
+2462,Francia
+2463,Germania
+2464,Regno Unito
+2465,Italia
+2466,Canada
+2467,Canada
+2468,USA
+2469,Italia
+2470,Regno Unito
+2471,Germania
+2472,Canada
+2473,USA
+2474,Francia
+2475,Germania
+2476,Francia
+2477,Italia
+2478,Francia
+2479,Regno Unito
+2480,Germania
+2481,USA
+2483,Canada
+2484,Canada
+2485,Regno Unito
+2486,USA
+2487,Regno Unito
+2488,Italia
+2489,Francia
+2490,USA
+2491,Regno Unito
+2492,Germania
+2493,Francia
+2494,Italia
+2495,USA
+2496,Regno Unito
+2497,Canada
+2498,Regno Unito
+2499,Canada
+2500,Germania
+2501,Regno Unito
+2502,USA
+2503,USA
+2504,Italia
+2505,Regno Unito
+2506,Regno Unito
+2507,Canada
+2508,Canada
+2509,USA
+2510,Italia
+2511,USA
+2512,USA
+2513,Germania
+2514,Canada
+2515,Canada
+2516,USA
+2517,Francia
+2518,Italia
+2519,Regno Unito
+2520,Italia
+2522,Regno Unito
+2523,Regno Unito
+2524,Canada
+2525,Francia
+2526,Francia
+2527,Francia
+2528,Regno Unito
+2529,Italia
+2530,Germania
+2531,Regno Unito
+2532,Francia
+2533,Regno Unito
+2534,Italia
+2535,Italia
+2536,Italia
+2537,Italia
+2538,Regno Unito
+2539,Italia
+2540,Francia
+2541,Regno Unito
+2542,Italia
+2543,Italia
+2544,USA
+2545,Regno Unito
+2546,Canada
+2547,Francia
+2548,Canada
+2549,Francia
+2550,USA
+2551,Canada
+2552,Germania
+2553,USA
+2554,USA
+2555,Regno Unito
+2556,Germania
+2557,Germania
+2558,Francia
+2559,Canada
+2560,Italia
+2561,Germania
+2562,Italia
+2563,Germania
+2564,Germania
+2565,Regno Unito
+2566,Italia
+2568,USA
+2569,Canada
+2570,Italia
+2571,Francia
+2572,Francia
+2573,Canada
+2574,Italia
+2575,Regno Unito
+2576,Regno Unito
+2577,USA
+2578,USA
+2579,USA
+2580,Italia
+2581,Francia
+2582,Francia
+2583,Italia
+2585,Canada
+2586,Francia
+2587,Germania
+2588,Regno Unito
+2589,Francia
+2590,Francia
+2591,Canada
+2592,Francia
+2593,Francia
+2594,Francia
+2595,Francia
+2596,Regno Unito
+2597,Canada
+2598,Regno Unito
+2599,USA
+2600,Italia
+2601,Francia
+2602,USA
+2603,USA
+2604,Francia
+2605,Francia
+2606,Regno Unito
+2607,Germania
+2608,Italia
+2609,USA
+2610,Canada
+2611,Francia
+2612,Canada
+2613,USA
+2614,Canada
+2616,Canada
+2617,Francia
+2618,Regno Unito
+2619,USA
+2620,Regno Unito
+2621,Regno Unito
+2622,Italia
+2623,Regno Unito
+2624,Regno Unito
+2625,Germania
+2626,Regno Unito
+2627,Italia
+2628,Regno Unito
+2629,Francia
+2630,Francia
+2631,Francia
+2632,Regno Unito
+2633,USA
+2634,Germania
+2635,Germania
+2636,Francia
+2637,Regno Unito
+2638,USA
+2639,Regno Unito
+2640,Canada
+2641,Canada
+2642,Francia
+2643,Regno Unito
+2644,Italia
+2645,Francia
+2646,Francia
+2647,Regno Unito
+2648,USA
+2649,USA
+2650,Italia
+2651,Canada
+2652,Canada
+2653,Francia
+2654,Francia
+2655,Regno Unito
+2657,Italia
+2658,Germania
+2659,Germania
+2660,Canada
+2661,USA
+2662,Regno Unito
+2663,Italia
+2665,USA
+2666,Germania
+2667,Regno Unito
+2669,Francia
+2670,Canada
+2671,Canada
+2672,USA
+2673,Regno Unito
+2674,Regno Unito
+2675,Regno Unito
+2676,USA
+2677,Canada
+2678,Germania
+2679,USA
+2680,Germania
+2681,Francia
+2682,Italia
+2683,Canada
+2685,Germania
+2686,Francia
+2687,Regno Unito
+2688,Germania
+2689,Germania
+2690,Italia
+2691,Germania
+2692,USA
+2693,USA
+2694,Italia
+2695,Regno Unito
+2696,Francia
+2697,Francia
+2698,Francia
+2699,Francia
+2700,USA
+2701,Francia
+2702,Germania
+2703,Italia
+2704,Canada
+2705,USA
+2706,Germania
+2707,Regno Unito
+2708,Canada
+2709,Germania
+2710,USA
+2711,Italia
+2712,Regno Unito
+2713,Francia
+2714,Francia
+2715,Francia
+2716,USA
+2717,Canada
+2718,Italia
+2719,Germania
+2720,Francia
+2721,Francia
+2722,USA
+2723,Francia
+2724,Italia
+2725,USA
+2726,Regno Unito
+2727,Francia
+2728,Regno Unito
+2729,Regno Unito
+2731,USA
+2732,Regno Unito
+2733,USA
+2734,Canada
+2735,Germania
+2736,USA
+2737,Italia
+2738,Germania
+2739,Germania
+2740,USA
+2741,Francia
+2743,Germania
+2744,USA
+2745,Italia
+2746,Francia
+2747,Germania
+2748,Francia
+2749,Regno Unito
+2750,Germania
+2751,Germania
+2752,USA
+2753,Francia
+2754,Italia
+2755,Italia
+2756,USA
+2757,Germania
+2758,Canada
+2759,Canada
+2760,Regno Unito
+2761,Francia
+2762,Canada
+2763,Francia
+2764,Francia
+2765,Italia
+2766,Canada
+2767,USA
+2768,Canada
+2769,Regno Unito
+2770,Italia
+2771,Regno Unito
+2772,USA
+2773,Regno Unito
+2774,USA
+2775,Germania
+2776,Francia
+2777,Regno Unito
+2778,Regno Unito
+2779,USA
+2780,USA
+2781,Regno Unito
+2782,Italia
+2783,Canada
+2784,Germania
+2785,Regno Unito
+2786,Francia
+2787,Italia
+2788,Canada
+2789,Germania
+2790,Regno Unito
+2791,USA
+2792,Francia
+2793,Italia
+2794,Germania
+2795,Italia
+2797,USA
+2798,Regno Unito
+2799,USA
+2800,Canada
+2801,Regno Unito
+2802,Canada
+2803,Italia
+2804,Germania
+2805,USA
+2806,Italia
+2808,Francia
+2809,Regno Unito
+2810,Francia
+2811,Italia
+2812,USA
+2813,Germania
+2814,Germania
+2815,Germania
+2817,Italia
+2818,Regno Unito
+2819,Regno Unito
+2820,Germania
+2821,Francia
+2822,Italia
+2823,Germania
+2824,Francia
+2825,Italia
+2826,Regno Unito
+2827,Regno Unito
+2828,Regno Unito
+2829,Germania
+2830,Canada
+2831,USA
+2832,Regno Unito
+2833,Francia
+2834,Canada
+2836,Italia
+2837,Francia
+2838,Francia
+2839,Regno Unito
+2840,Regno Unito
+2841,Italia
+2843,USA
+2844,Germania
+2845,USA
+2846,Canada
+2847,Regno Unito
+2848,Francia
+2849,Regno Unito
+2850,Italia
+2851,Francia
+2852,Germania
+2853,Canada
+2854,Francia
+2855,Canada
+2856,USA
+2857,USA
+2858,Germania
+2859,Regno Unito
+2860,Canada
+2861,Canada
+2862,Canada
+2863,Regno Unito
+2864,USA
+2865,Italia
+2866,Germania
+2867,Germania
+2868,Italia
+2869,Germania
+2870,Canada
+2871,USA
+2872,Germania
+2873,Regno Unito
+2874,USA
+2875,Italia
+2876,Francia
+2877,Germania
+2878,Regno Unito
+2879,Francia
+2880,Germania
+2881,Germania
+2882,Regno Unito
+2883,Regno Unito
+2884,Germania
+2885,Canada
+2886,Italia
+2887,Canada
+2888,Germania
+2889,Regno Unito
+2890,Regno Unito
+2891,Regno Unito
+2892,Canada
+2893,Regno Unito
+2894,Germania
+2895,Italia
+2896,Regno Unito
+2897,Regno Unito
+2898,Francia
+2899,Germania
+2900,Canada
+2901,USA
+2902,Italia
+2903,Francia
+2904,Germania
+2905,Italia
+2906,USA
+2908,USA
+2909,Regno Unito
+2910,Germania
+2911,Francia
+2912,Francia
+2913,USA
+2914,Francia
+2915,Francia
+2916,Regno Unito
+2917,Francia
+2920,USA
+2921,Germania
+2923,Regno Unito
+2924,Francia
+2925,Germania
+2926,Regno Unito
+2927,Italia
+2928,Germania
+2929,Germania
+2930,USA
+2931,Canada
+2932,Francia
+2933,USA
+2934,Regno Unito
+2935,Regno Unito
+2936,Italia
+2937,Canada
+2938,Regno Unito
+2939,Regno Unito
+2940,Regno Unito
+2941,USA
+2942,Regno Unito
+2943,Regno Unito
+2944,Italia
+2945,Germania
+2946,Francia
+2947,Francia
+2948,Regno Unito
+2949,Francia
+2950,Italia
+2951,Germania
+2952,Germania
+2953,Italia
+2954,Italia
+2955,Canada
+2956,Canada
+2957,Francia
+2958,Canada
+2959,Germania
+2960,Germania
+2961,Germania
+2962,Canada
+2963,Germania
+2964,Francia
+2965,Regno Unito
+2966,Germania
+2968,Germania
+2969,Canada
+2970,Italia
+2971,Germania
+2972,Regno Unito
+2973,Francia
+2974,Germania
+2975,USA
+2976,Francia
+2977,Canada
+2978,Francia
+2979,Italia
+2980,Regno Unito
+2981,Regno Unito
+2982,USA
+2983,Italia
+2984,Canada
+2985,Francia
+2986,Regno Unito
+2987,USA
+2988,Germania
+2989,Italia
+2990,USA
+2991,USA
+2992,Italia
+2993,USA
+2994,Italia
+2995,Italia
+2996,Canada
+2997,Germania
+2998,Regno Unito
+2999,Regno Unito

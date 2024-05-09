@@ -36,6 +36,17 @@ def insert_into_table(df, table_name, key_column):
     except Exception as e:
         logging.error(f"Failed to insert data into {table_name}: {e}")
 
+def export_data_to_csv():
+    try:
+        # Definire le query per esportare i dati
+        tables = ['Products', 'Customers', 'Orders', 'OrderDetails']
+        for table in tables:
+            df = pd.read_sql_query(f"SELECT * FROM {table}", conn)
+            df.to_csv(f"{table}.csv", index=False)
+            logging.info(f"Data from {table} exported successfully to CSV")
+    except Exception as e:
+        logging.error(f"Failed to export data to CSV: {e}")
+
 def process_data():
     if data is not None:
         try:
@@ -54,6 +65,9 @@ def process_data():
             # Commit delle modifiche
             conn.commit()
             logging.info("All data committed successfully")
+            
+            # Esportazione dei dati a CSV
+            export_data_to_csv()
         except Exception as e:
             logging.error("Error processing data: {}".format(e))
         finally:

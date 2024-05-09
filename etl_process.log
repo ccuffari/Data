@@ -36,3 +36,16 @@
 2024-05-09 16:12:45,151 - INFO - Data inserted into OrderDetails successfully
 2024-05-09 16:12:45,151 - INFO - All data committed successfully
 2024-05-09 16:12:45,152 - INFO - Database connection closed
+2024-05-09 16:24:03,410 - INFO - Data loaded successfully from Sales_Data.xlsx
+2024-05-09 16:24:03,414 - INFO - Connected to the database successfully
+2024-05-09 16:24:03,417 - INFO - Data cleaned successfully
+2024-05-09 16:24:03,452 - INFO - Data inserted into Products successfully
+2024-05-09 16:24:03,467 - INFO - Data inserted into Customers successfully
+2024-05-09 16:24:03,510 - INFO - Data inserted into Orders successfully
+2024-05-09 16:24:03,535 - INFO - Data inserted into OrderDetails successfully
+2024-05-09 16:24:03,535 - INFO - All data committed successfully
+2024-05-09 16:24:03,548 - INFO - Data from Products exported successfully to CSV
+2024-05-09 16:24:03,556 - INFO - Data from Customers exported successfully to CSV
+2024-05-09 16:24:03,579 - INFO - Data from Orders exported successfully to CSV
+2024-05-09 16:24:03,603 - INFO - Data from OrderDetails exported successfully to CSV
+2024-05-09 16:24:03,604 - INFO - Database connection closed
