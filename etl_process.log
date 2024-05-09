@@ -1,0 +1,38 @@
+2024-05-09 16:01:10,945 - ERROR - Failed to load data from Sales_Data.xlsx: [Errno 13] Permission denied: 'Sales_Data.xlsx'
+2024-05-09 16:01:10,948 - INFO - Connected to the database successfully
+2024-05-09 16:01:10,948 - ERROR - Error processing data: name 'data' is not defined
+2024-05-09 16:01:10,949 - INFO - Database connection closed
+2024-05-09 16:03:35,056 - ERROR - Failed to load data from Sales_Data.xlsx: [Errno 13] Permission denied: 'Sales_Data.xlsx'
+2024-05-09 16:03:35,061 - INFO - Connected to the database successfully
+2024-05-09 16:03:35,061 - ERROR - Error processing data: name 'data' is not defined
+2024-05-09 16:03:35,062 - INFO - Database connection closed
+2024-05-09 16:04:19,539 - ERROR - Failed to load data from Sales_Data.xlsx: 'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2024-05-09 16:04:19,542 - INFO - Connected to the database successfully
+2024-05-09 16:04:19,542 - ERROR - Error processing data: name 'data' is not defined
+2024-05-09 16:04:19,543 - INFO - Database connection closed
+2024-05-09 16:04:32,340 - ERROR - Failed to load data from Sales_Data.xlsx: 'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+2024-05-09 16:04:32,347 - INFO - Connected to the database successfully
+2024-05-09 16:04:32,347 - ERROR - Error processing data: name 'data' is not defined
+2024-05-09 16:04:32,349 - INFO - Database connection closed
+2024-05-09 16:06:25,041 - ERROR - Failed to load data from Sales_Data.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2024-05-09 16:06:25,046 - INFO - Connected to the database successfully
+2024-05-09 16:06:25,046 - ERROR - Data loading failed, no data to process.
+2024-05-09 16:06:25,046 - INFO - Database connection closed
+2024-05-09 16:06:54,340 - INFO - Data loaded successfully from Sales_Data.xlsx
+2024-05-09 16:06:54,344 - INFO - Connected to the database successfully
+2024-05-09 16:06:54,346 - INFO - Data cleaned successfully
+2024-05-09 16:06:54,358 - ERROR - Failed to insert data into Products: UNIQUE constraint failed: Products.ProductID
+2024-05-09 16:06:54,367 - ERROR - Failed to insert data into Customers: UNIQUE constraint failed: Customers.CustomerID
+2024-05-09 16:06:54,410 - INFO - Data inserted into Orders successfully
+2024-05-09 16:06:54,437 - INFO - Data inserted into OrderDetails successfully
+2024-05-09 16:06:54,437 - INFO - All data committed successfully
+2024-05-09 16:06:54,439 - INFO - Database connection closed
+2024-05-09 16:12:45,004 - INFO - Data loaded successfully from Sales_Data.xlsx
+2024-05-09 16:12:45,008 - INFO - Connected to the database successfully
+2024-05-09 16:12:45,010 - INFO - Data cleaned successfully
+2024-05-09 16:12:45,060 - INFO - Data inserted into Products successfully
+2024-05-09 16:12:45,077 - INFO - Data inserted into Customers successfully
+2024-05-09 16:12:45,125 - INFO - Data inserted into Orders successfully
+2024-05-09 16:12:45,151 - INFO - Data inserted into OrderDetails successfully
+2024-05-09 16:12:45,151 - INFO - All data committed successfully
+2024-05-09 16:12:45,152 - INFO - Database connection closed
